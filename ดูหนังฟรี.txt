@@ -1,0 +1,27 @@
+{
+
+"name": "The series ",
+"author": "จัดทำโดย คุณมานพ ",
+"image": "https://moviehdfree.org/wp-content/uploads/2022/04/HDMOVIE.png",
+"url": "https://docs.google.com/uc?export=download&id=1gLDV41tphdQKWTPEmfiaI6ahhHSEWd2q",
+"info": "จัดทำโดย คุณมานพ",
+
+
+"groups": [
+
+
+
+{
+"name": "ทาสปีศาจ",
+"image": "https://www.123-hd.com/wp-content/uploads/2022/05/The-Blue-Whisper-Part-1-2022-300x450.png",
+"url": "https://docs.google.com/uc?export=download&id=1hMg4PwLzMfhIg-7RGsW2zlznWE7PguAC",
+"import": false
+},
+{
+"name": "เกียรติยศหน่วยรบพิเศษติ",
+"image": "https://www.123-hd.com/wp-content/uploads/2022/05/Glory-of-Special-Forces-300x450.png",
+"url": "https://docs.google.com/uc?export=download&id=1ru1sjVzUHbquyzAs0Tztovxn9oGMH4GW",
+"import": false
+},
+]
+}
