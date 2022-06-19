@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/05/The-Blue-Whisper-Part-1-2022-300x450.png",BY MANOP
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/05/The-Blue-Whisper-Part-1-2022-300x450.png",BY รีเฟรชก่อนรับฃมทุกครั้ง
 "url": "https://raw.githubusercontent.com/manobtkza/doomovie/main/%E0%B8%97%E0%B8%B2%E0%B8%AA%E0%B8%9B%E0%B8%A8%E0%B8%B2%E0%B8%88.txt",
 
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/05/The-Blue-Whisper-Part-1-2022-300x450.png",EP1
