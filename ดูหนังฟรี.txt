@@ -3,7 +3,7 @@
 "name": "The series ",
 "author": "จัดทำโดย คุณมานพ ",
 "image": "https://moviehdfree.org/wp-content/uploads/2022/04/HDMOVIE.png",
-"url": "https://docs.google.com/uc?export=download&id=1gLDV41tphdQKWTPEmfiaI6ahhHSEWd2q",
+"url": "https://raw.githubusercontent.com/manobtkza/doomovie/main/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%A3%E0%B8%B5.txt",
 "info": "จัดทำโดย คุณมานพ",
 
 
